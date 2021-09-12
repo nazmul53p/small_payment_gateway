@@ -4,7 +4,7 @@
 <br />
 <p align="center">
   <h3 align="center">
-  <a href="https://github.com/nazmul53p/raw_node_project">Raw Node.js Project </a>
+  <a href="https://github.com/nazmul53p/small_payment_gateway">Small Payment Gateway</a>
   </h3>
 
 <!-- TABLE OF CONTENTS -->
@@ -22,7 +22,7 @@ Please follow the below instructions to run this project in your machine:
 
 1. Clone this repository
    ```sh
-   git clone https://github.com/nazmul53p/raw_node_project
+   git clone https://github.com/nazmul53p/small_payment_gateway
    ```
 2. Install dev dependencies
    ```sh
